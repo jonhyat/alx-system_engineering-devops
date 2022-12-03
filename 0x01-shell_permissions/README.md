@@ -1,2 +1,4 @@
-### I am Betty
-* we switch users using the ```su``` command in bash
+### Shell Permissions
+* I am betty
+* Who am i
+* Groups
